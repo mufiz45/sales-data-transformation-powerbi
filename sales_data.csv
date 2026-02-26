@@ -1,0 +1,871 @@
+OrderID,OrderDate,Product,Category,Region,SalesRepID,Quantity,UnitPrice,CostPrice,DiscountPercent
+ORD20749,15-12-2023,Sports Hoodie,Clothing,South,SR006,16,60,24,0
+ORD20426,23-07-2024,Dumbbell Set 20kg,Sports,South,SR002,6,130,62,0
+ORD20350,22-04-2023,Yoga Mat,Sports,South,SR006,10,40,13,N/A
+ORD20451,28-07-2024,Laptop Pro 15,Electronics,North,SR001,10,850,520,15
+ORD20594,08-05-2023,Instant Pot,Home & Kitchen,North,SR009,5,95,48,10
+ORD20425,29-08-2024,Pro Makeup Palette,Beauty,East,SR003,12,45,16,0
+ORD20721,29-10-2023,Winter Jacket,Clothing,North,SR001,7,95,40,0
+ORD20755,20-05-2023,Wireless Headphones,Electronics,West,SR008,17,120,62,0
+ORD20052,30-10-2024,Casual Shirt,Clothing,North,SR009,18,35,11,0
+ORD20663,16-11-2023,Casual Shirt,Clothing,South,SR006,27,35,11,10
+ORD20357,09-01-2024,Denim Jeans,Clothing,South,SR006,17,55,20,5
+ORD20547,18-11-2024,Tablet X Pro,Electronics,North,SR005,9,450,275,5
+ORD20395,18-04-2024,Laptop Pro 15,Electronics,North,SR005,4,850,520,20
+ORD20075,27-08-2023,Professional Hair Dryer,Beauty,South,SR006,19,55,23,5
+ORD20694,11-10-2023,Winter Jacket,Clothing,North,SR001,10,95,40,0
+ORD20818,04-10-2024,Denim Jeans,Clothing,East,SR007,4,55,20,10
+ORD20420,10-09-2023,Denim Jeans,Clothing,West,SR004,19,55,20,N/A
+ORD20760,01-03-2024,Yoga Mat,Sports,South,SR006,18,40,13,0
+ORD20419,23-12-2023,Luxury Bedding Set,Home & Kitchen,East,SR003,12,70,28,0
+ORD20144,06-04-2024,Winter Jacket,Clothing,North,SR001,7,95,40,15
+ORD20724,06-07-2023,Casual Shirt,Clothing,West,SR008,9,35,11,10
+ORD20687,28-05-2024,Tablet X Pro,Electronics,West,SR008,17,450,275,20
+ORD20208,20-01-2023,Laptop Pro 15,Electronics,South,SR002,9,850,520,20
+ORD20139,29-09-2023,Professional Hair Dryer,Beauty,North,SR009,10,55,23,5
+ORD20449,08-12-2023,Road Bicycle,Sports,North,SR005,19,380,205,10
+ORD20580,08-09-2023,Smart Watch,Electronics,East,SR003,4,220,125,0
+ORD20302,24-12-2023,Road Bicycle,Sports,East,SR007,24,380,205,20
+ORD20674,16-12-2024,Luxury Perfume Set,Beauty,East,SR003,6,80,28,0
+ORD20602,27-02-2023,Running Shoes,Clothing,East,SR003,12,75,30,0
+ORD20306,27-07-2023,Luxury Bedding Set,Home & Kitchen,North,SR005,9,70,28,0
+ORD20711,08-01-2024,Blender Pro,Home & Kitchen,West,SR008,11,65,26,15
+ORD20154,05-05-2024,Luxury Perfume Set,Beauty,North,SR005,1,80,28,10
+ORD20714,19-02-2024,Luxury Perfume Set,Beauty,South,SR010,9,80,28,0
+ORD20182,18-04-2023,4K Monitor,Electronics,North,SR005,6,430,265,10
+ORD20325,19-05-2024,Professional Hair Dryer,Beauty,South,SR002,10,55,23,0
+ORD20138,26-05-2023,Luxury Perfume Set,Beauty,North,SR009,8,80,28,5
+ORD20128,24-11-2023,Tablet X Pro,Electronics,North,SR001,27,450,275,0
+ORD20442,20-04-2023,Resistance Bands,Sports,South,SR002,5,28,9,0
+ORD20027,20-09-2023,Professional Hair Dryer,Beauty,West,SR008,14,55,23,0
+ORD20122,23-09-2024,Resistance Bands,Sports,North,SR005,12,28,9,0
+ORD20240,07-12-2024,Coffee Maker,Home & Kitchen,South,SR006,1,85,38,15
+ORD20213,18-07-2024,Tablet X Pro,Electronics,West,SR004,11,450,275,15
+ORD20339,28-01-2023,Luxury Bedding Set,Home & Kitchen,West,SR004,6,70,28,0
+ORD20454,15-03-2023,Serum Bundle,Beauty,North,SR001,8,70,24,15
+ORD20305,26-03-2024,Road Bicycle,Sports,North,SR009,17,380,205,0
+ORD20018,21-09-2023,Dumbbell Set 20kg,Sports,South,SR006,4,130,62,20
+ORD20384,10-04-2024,Luxury Perfume Set,Beauty,North,SR005,4,80,28,5
+ORD20532,05-10-2023,Pro Makeup Palette,Beauty,East,SR003,9,45,16,20
+ORD20824,12-12-2024,Serum Bundle,Beauty,East,SR003,6,70,24,20
+ORD20413,24-01-2024,Sports Hoodie,Clothing,West,SR004,18,60,24,5
+ORD20069,07-04-2023,Sports Hoodie,Clothing,North,SR005,14,60,24,0
+ORD20149,16-01-2024,Pro Makeup Palette,Beauty,West,SR004,16,45,16,20
+ORD20708,01-12-2023,Instant Pot,Home & Kitchen,North,SR009,19,95,48,5
+ORD20362,26-03-2024,Sports Hoodie,Clothing,South,SR002,3,60,24,20
+ORD20507,24-06-2023,Pro Makeup Palette,Beauty,North,SR005,16,45,16,20
+ORD20170,07-05-2024,Professional Hair Dryer,Beauty,East,SR003,19,55,23,0
+ORD20233,23-01-2024,Coffee Maker,Home & Kitchen,North,SR001,5,85,38,10
+ORD20337,10-04-2023,Denim Jeans,Clothing,North,SR009,4,55,20,0
+ORD20037,02-02-2023,Tablet X Pro,Electronics,North,SR005,2,450,275,5
+ORD20270,01-03-2023,Professional Hair Dryer,Beauty,South,SR010,17,55,23,0
+ORD20100,12-02-2024,Smart Watch,Electronics,North,SR009,7,220,125,0
+ORD20452,23-12-2024,Skincare Routine Kit,Beauty,East,SR007,22,60,20,15
+ORD20429,22-08-2024,Serum Bundle,Beauty,North,SR005,14,70,24,5
+ORD20848,30-12-2023,Tennis Racket Pro,Sports,East,SR007,12,90,40,15
+ORD20534,06-12-2024,Denim Jeans,Clothing,North,SR005,19,55,20,10
+ORD20466,14-06-2023,Denim Jeans,Clothing,North,SR005,19,55,20,10
+ORD20844,27-04-2023,Serum Bundle,Beauty,South,SR002,11,70,24,0
+ORD20701,27-10-2023,Laptop Pro 15,Electronics,South,SR006,14,850,520,5
+ORD20380,09-01-2024,Luxury Perfume Set,Beauty,East,SR003,16,80,28,0
+ORD20245,31-05-2023,Resistance Bands,Sports,North,SR009,7,28,9,10
+ORD20605,06-04-2023,,Sports,East,SR007,20,380,205,0
+ORD20110,25-10-2023,,Sports,West,SR008,20,130,62,5
+ORD20642,08-04-2024,Denim Jeans,Clothing,South,SR010,16,55,20,5
+ORD20763,07-12-2023,Wireless Headphones,Electronics,North,SR005,3,120,62,0
+ORD20500,21-09-2024,Running Shoes,Clothing,North,SR009,19,75,30,0
+ORD20135,30-08-2024,Road Bicycle,Sports,South,SR006,8,380,205,10
+ORD20402,07-11-2024,Luxury Perfume Set,Beauty,East,SR003,27,80,28,0
+ORD20472,08-03-2023,Laptop Pro 15,Electronics,West,SR008,12,850,520,20
+ORD20571,18-03-2024,Denim Jeans,Clothing,South,SR002,12,55,20,0
+ORD20785,29-06-2024,Yoga Mat,Sports,North,SR009,7,40,13,0
+ORD20287,23-08-2023,Laptop Pro 15,Electronics,South,SR010,12,850,520,10
+ORD20596,28-09-2024,Road Bicycle,Sports,South,SR010,2,380,205,10
+ORD20200,14-10-2024,Winter Jacket,Clothing,North,SR009,19,95,40,15
+ORD20592,06-03-2023,Blender Pro,Home & Kitchen,North,SR005,4,65,26,5
+ORD20109,11-09-2024,Laptop Pro 15,Electronics,North,SR005,3,850,520,0
+ORD20847,20-08-2024,Professional Hair Dryer,Beauty,South,SR010,16,55,23,0
+ORD20617,19-12-2023,Pro Makeup Palette,Beauty,North,SR001,3,45,16,10
+ORD20068,06-08-2023,Yoga Mat,Sports,North,SR009,8,40,13,15
+ORD20491,09-10-2024,Running Shoes,Clothing,East,SR003,12,75,30,10
+ORD20174,20-12-2023,Winter Jacket,Clothing,West,SR008,24,95,40,0
+ORD20265,03-12-2023,Blender Pro,Home & Kitchen,East,SR003,3,65,26,0
+ORD20256,29-06-2024,Wireless Headphones,Electronics,West,SR004,13,120,62,0
+ORD20114,14-03-2023,Serum Bundle,Beauty,South,SR006,8,70,24,10
+ORD20112,18-10-2023,Denim Jeans,Clothing,North,SR005,5,55,20,0
+ORD20421,08-08-2024,Blender Pro,Home & Kitchen,South,SR006,17,65,26,0
+ORD20736,20-04-2023,Air Fryer Pro,Home & Kitchen,West,SR004,13,110,52,10
+ORD20002,16-05-2024,Tablet X Pro,Electronics,North,SR009,7,450,275,5
+ORD20341,26-06-2024,Skincare Routine Kit,Beauty,South,SR010,20,60,20,0
+ORD20229,12-10-2023,Casual Shirt,Clothing,West,SR004,8,35,11,10
+ORD20222,19-05-2023,Skincare Routine Kit,Beauty,North,SR009,3,60,20,20
+ORD20490,13-02-2023,Dumbbell Set 20kg,Sports,East,SR007,15,130,62,N/A
+ORD20310,20-05-2024,Tablet X Pro,Electronics,North,SR001,19,450,275,10
+ORD20826,17-11-2024,Denim Jeans,Clothing,North,SR005,28,55,20,10
+ORD20076,18-09-2024,4K Monitor,Electronics,West,SR004,7,430,265,20
+ORD20501,07-07-2024,Laptop Pro 15,Electronics,South,SR002,13,850,520,0
+ORD20434,16-02-2024,Winter Jacket,Clothing,North,SR005,4,95,40,15
+ORD20379,21-03-2024,Smart Watch,Electronics,West,SR008,15,220,125,20
+ORD20103,09-03-2024,Dumbbell Set 20kg,Sports,East,SR003,19,130,62,10
+ORD20333,09-12-2024,Air Fryer Pro,Home & Kitchen,South,SR002,12,110,52,15
+ORD20819,03-09-2023,Resistance Bands,Sports,South,SR002,18,28,9,0
+ORD20462,12-02-2024,Smart Watch,Electronics,North,SR009,16,220,125,15
+ORD20082,23-03-2024,Laptop Pro 15,Electronics,South,SR002,2,850,520,0
+ORD20044,03-09-2023,Tablet X Pro,Electronics,East,SR003,15,450,275,10
+ORD20485,08-04-2024,Professional Hair Dryer,Beauty,West,SR008,7,55,23,5
+ORD20815,04-07-2024,Luxury Perfume Set,Beauty,South,SR002,4,80,28,10
+ORD20631,25-06-2023,Winter Jacket,Clothing,South,SR006,20,95,40,10
+ORD20792,17-09-2024,Pro Makeup Palette,Beauty,South,SR006,3,45,16,0
+ORD20834,19-06-2023,Air Fryer Pro,Home & Kitchen,West,SR008,19,110,52,10
+ORD20090,27-09-2024,Casual Shirt,Clothing,West,SR004,9,35,11,20
+ORD20499,15-02-2024,Coffee Maker,Home & Kitchen,North,SR005,1,85,38,15
+ORD20802,05-07-2023,Luxury Bedding Set,Home & Kitchen,West,SR008,5,70,28,20
+ORD20376,03-08-2023,Tennis Racket Pro,Sports,North,SR001,9,90,40,5
+ORD20116,11-01-2023,Skincare Routine Kit,Beauty,East,SR007,14,60,20,0
+ORD20260,19-07-2023,Luxury Perfume Set,Beauty,South,SR006,9,80,28,0
+ORD20086,22-07-2023,Luxury Perfume Set,Beauty,North,SR005,15,80,28,0
+ORD20744,08-12-2024,Yoga Mat,Sports,South,SR010,13,40,13,20
+ORD20653,16-11-2024,Laptop Pro 15,Electronics,North,SR001,21,850,520,20
+ORD20510,05-05-2024,Skincare Routine Kit,Beauty,South,SR006,7,60,20,5
+ORD20528,07-01-2023,Laptop Pro 15,Electronics,South,SR010,11,850,520,10
+ORD20781,06-03-2023,Road Bicycle,Sports,North,SR009,10,380,205,0
+ORD20558,20-10-2024,Winter Jacket,Clothing,North,SR009,19,95,40,0
+ORD20228,18-12-2023,Dumbbell Set 20kg,Sports,South,SR010,18,130,62,15
+ORD20604,04-12-2023,Blender Pro,Home & Kitchen,North,SR009,30,65,26,0
+ORD20761,21-12-2024,Resistance Bands,Sports,East,SR007,3,28,9,15
+ORD20175,03-03-2023,Road Bicycle,Sports,East,SR007,7,380,205,0
+ORD20361,27-06-2024,Dumbbell Set 20kg,Sports,South,SR002,15,130,62,0
+ORD20718,12-02-2024,Running Shoes,Clothing,North,SR001,3,75,30,0
+ORD20282,11-04-2023,Instant Pot,Home & Kitchen,South,SR002,15,95,48,0
+ORD20495,21-04-2023,,Electronics,East,SR007,17,450,275,15
+ORD20308,06-05-2023,Denim Jeans,Clothing,South,SR010,13,55,20,0
+ORD20117,27-03-2023,Yoga Mat,Sports,East,SR007,1,40,13,0
+ORD20689,12-09-2023,Winter Jacket,Clothing,South,SR006,18,95,40,15
+ORD20001,15-09-2023,Winter Jacket,Clothing,West,SR004,13,95,40,10
+ORD20639,29-05-2024,Coffee Maker,Home & Kitchen,North,SR005,11,85,38,20
+ORD20159,06-10-2024,Blender Pro,Home & Kitchen,West,SR008,11,65,26,15
+ORD20253,16-06-2024,Denim Jeans,Clothing,North,SR001,18,55,20,0
+ORD20104,25-11-2023,Laptop Pro 15,Electronics,North,SR001,10,850,520,0
+ORD20709,03-03-2023,Dumbbell Set 20kg,Sports,East,SR003,15,130,62,5
+ORD20084,27-06-2024,Tablet X Pro,Electronics,North,SR005,10,450,275,0
+ORD20773,19-07-2024,Tennis Racket Pro,Sports,North,SR001,7,90,40,0
+ORD20050,30-04-2023,Running Shoes,Clothing,East,SR007,16,75,30,0
+ORD20241,24-12-2024,Running Shoes,Clothing,South,SR002,15,75,30,10
+ORD20377,14-11-2023,Wireless Headphones,Electronics,South,SR006,18,120,62,10
+ORD20732,15-05-2023,Casual Shirt,Clothing,West,SR004,9,35,11,10
+ORD20289,25-05-2024,Running Shoes,Clothing,West,SR008,20,75,30,0
+ORD20539,27-07-2024,4K Monitor,Electronics,South,SR006,6,430,265,5
+ORD20220,27-03-2024,,Home & Kitchen,South,SR010,5,95,48,10
+ORD20016,02-05-2023,Laptop Pro 15,Electronics,East,SR007,5,850,520,0
+ORD20311,20-04-2023,Winter Jacket,Clothing,South,SR010,2,95,40,0
+ORD20398,02-06-2024,Pro Makeup Palette,Beauty,West,SR008,1,45,16,15
+ORD20177,18-05-2023,Professional Hair Dryer,Beauty,East,SR003,8,55,23,20
+ORD20234,03-04-2023,Instant Pot,Home & Kitchen,North,SR009,5,95,48,5
+ORD20651,27-07-2024,Road Bicycle,Sports,North,SR009,12,380,205,20
+ORD20837,28-06-2023,Instant Pot,Home & Kitchen,South,SR010,5,95,48,5
+ORD20370,12-02-2023,Winter Jacket,Clothing,West,SR004,9,95,40,5
+ORD20567,06-08-2024,Winter Jacket,Clothing,West,SR004,17,95,40,20
+ORD20127,06-06-2023,Luxury Perfume Set,Beauty,South,SR010,5,80,28,5
+ORD20221,04-05-2024,Luxury Perfume Set,Beauty,West,SR008,8,80,28,20
+ORD20037,02-02-2023,Tablet X Pro,Electronics,North,SR005,2,450,275,5
+ORD20578,10-09-2023,Instant Pot,Home & Kitchen,North,SR001,2,95,48,0
+ORD20842,08-02-2024,Air Fryer Pro,Home & Kitchen,East,SR003,5,110,52,15
+ORD20063,13-03-2024,4K Monitor,Electronics,North,SR005,3,430,265,0
+ORD20779,13-09-2024,Luxury Bedding Set,Home & Kitchen,East,SR003,5,70,28,0
+ORD20188,21-11-2024,Luxury Perfume Set,Beauty,South,SR006,13,80,28,0
+ORD20519,27-02-2024,Resistance Bands,Sports,North,SR001,11,28,9,0
+ORD20743,11-02-2023,Blender Pro,Home & Kitchen,East,SR007,15,65,26,5
+ORD20518,13-10-2023,4K Monitor,Electronics,East,SR003,19,430,265,0
+ORD20531,06-10-2024,Laptop Pro 15,Electronics,North,SR009,14,850,520,20
+ORD20058,29-11-2024,Denim Jeans,Clothing,North,SR001,6,55,20,20
+ORD20503,05-03-2024,Blender Pro,Home & Kitchen,South,SR006,1,65,26,0
+ORD20389,19-11-2023,Smart Watch,Electronics,North,SR001,27,220,125,0
+ORD20577,22-06-2024,Wireless Headphones,Electronics,West,SR008,11,120,62,10
+ORD20439,10-05-2024,Coffee Maker,Home & Kitchen,South,SR010,18,85,38,0
+ORD20791,23-03-2024,Dumbbell Set 20kg,Sports,East,SR007,4,130,62,5
+ORD20784,22-01-2023,Road Bicycle,Sports,South,SR002,11,380,205,0
+ORD20703,10-09-2024,4K Monitor,Electronics,West,SR004,12,430,265,5
+ORD20035,27-06-2024,Resistance Bands,Sports,East,SR007,20,28,9,20
+ORD20054,20-06-2023,Pro Makeup Palette,Beauty,North,SR001,12,45,16,20
+ORD20392,27-03-2023,Professional Hair Dryer,Beauty,North,SR001,12,55,23,20
+ORD20695,10-05-2023,Serum Bundle,Beauty,West,SR008,16,70,24,15
+ORD20808,16-07-2023,Air Fryer Pro,Home & Kitchen,West,SR004,14,110,52,10
+ORD20793,30-12-2023,Casual Shirt,Clothing,North,SR005,25,35,11,10
+ORD20649,25-06-2023,Sports Hoodie,Clothing,East,SR003,11,60,24,0
+ORD20665,24-03-2023,Running Shoes,Clothing,West,SR004,12,75,30,10
+ORD20183,17-10-2023,Denim Jeans,Clothing,North,SR001,12,55,20,0
+ORD20000,05-09-2024,,Sports,East,SR007,6,130,62,N/A
+ORD20841,21-10-2023,Yoga Mat,Sports,West,SR004,2,40,13,0
+ORD20078,19-11-2024,Sports Hoodie,Clothing,North,SR005,25,60,24,20
+ORD20180,08-07-2023,Skincare Routine Kit,Beauty,West,SR004,15,60,20,0
+ORD20448,21-09-2024,Resistance Bands,Sports,South,SR002,18,28,9,0
+ORD20126,11-11-2023,Serum Bundle,Beauty,East,SR003,1,70,24,0
+ORD20179,13-08-2023,Wireless Headphones,Electronics,West,SR004,20,120,62,0
+ORD20552,10-11-2023,Winter Jacket,Clothing,South,SR006,16,95,40,0
+ORD20404,29-08-2024,Wireless Headphones,Electronics,West,SR004,12,120,62,0
+ORD20363,16-01-2024,Sports Hoodie,Clothing,East,SR007,12,60,24,5
+ORD20565,06-04-2024,4K Monitor,Electronics,North,SR001,5,430,265,0
+ORD20405,14-04-2023,Serum Bundle,Beauty,North,SR009,7,70,24,5
+ORD20060,18-01-2024,Denim Jeans,Clothing,East,SR003,9,55,20,0
+ORD20112,18-10-2023,Denim Jeans,Clothing,North,SR005,5,55,20,0
+ORD20091,27-04-2023,4K Monitor,Electronics,South,SR002,14,430,265,0
+ORD20239,02-09-2024,Serum Bundle,Beauty,West,SR008,12,70,24,0
+ORD20408,18-08-2023,Professional Hair Dryer,Beauty,North,SR005,9,55,23,20
+ORD20195,17-11-2024,Sports Hoodie,Clothing,East,SR003,1,60,24,15
+ORD20479,21-06-2024,Smart Watch,Electronics,West,SR004,13,220,125,10
+ORD20009,28-03-2024,Running Shoes,Clothing,East,SR003,20,75,30,0
+ORD20099,05-06-2024,Road Bicycle,Sports,West,SR008,8,380,205,10
+ORD20810,01-08-2023,Air Fryer Pro,Home & Kitchen,East,SR003,17,110,52,0
+ORD20666,15-02-2024,Serum Bundle,Beauty,South,SR006,18,70,24,0
+ORD20412,30-12-2024,Road Bicycle,Sports,East,SR007,18,380,205,0
+ORD20049,12-06-2023,Luxury Perfume Set,Beauty,West,SR004,15,80,28,0
+ORD20830,07-07-2024,Air Fryer Pro,Home & Kitchen,North,SR005,7,110,52,20
+ORD20410,25-04-2024,Wireless Headphones,Electronics,West,SR008,8,120,62,5
+ORD20020,10-08-2023,Smart Watch,Electronics,South,SR010,13,220,125,5
+ORD20562,31-12-2023,Yoga Mat,Sports,North,SR009,25,40,13,20
+ORD20752,05-01-2024,Coffee Maker,Home & Kitchen,South,SR006,11,85,38,0
+ORD20394,26-01-2023,Blender Pro,Home & Kitchen,South,SR002,16,65,26,0
+ORD20787,06-04-2024,Road Bicycle,Sports,North,SR001,11,380,205,5
+ORD20641,16-01-2024,Sports Hoodie,Clothing,North,SR005,4,60,24,20
+ORD20224,06-11-2024,Pro Makeup Palette,Beauty,North,SR009,15,45,16,20
+ORD20053,03-06-2023,Running Shoes,Clothing,South,SR002,18,75,30,0
+ORD20635,03-07-2024,Professional Hair Dryer,Beauty,South,SR010,5,55,23,0
+ORD20473,03-11-2024,4K Monitor,Electronics,South,SR010,3,430,265,10
+ORD20062,20-10-2023,Winter Jacket,Clothing,East,SR003,18,95,40,0
+ORD20378,23-07-2023,Dumbbell Set 20kg,Sports,East,SR007,14,130,62,15
+ORD20776,08-10-2023,Coffee Maker,Home & Kitchen,North,SR005,20,85,38,5
+ORD20095,27-09-2024,Luxury Bedding Set,Home & Kitchen,West,SR004,4,70,28,0
+ORD20073,19-06-2023,Yoga Mat,Sports,East,SR007,19,40,13,0
+ORD20662,08-01-2024,Denim Jeans,Clothing,South,SR002,12,55,20,0
+ORD20230,09-05-2024,Skincare Routine Kit,Beauty,North,SR009,19,60,20,0
+ORD20750,01-07-2023,Luxury Bedding Set,Home & Kitchen,South,SR002,1,70,28,0
+ORD20586,01-03-2023,Tablet X Pro,Electronics,South,SR002,9,450,275,20
+ORD20101,16-05-2024,Blender Pro,Home & Kitchen,South,SR010,11,65,26,10
+ORD20459,25-06-2024,Luxury Bedding Set,Home & Kitchen,North,SR009,20,70,28,0
+ORD20205,21-12-2024,Tablet X Pro,Electronics,West,SR004,3,450,275,0
+ORD20322,09-03-2023,Road Bicycle,Sports,East,SR007,13,380,205,0
+ORD20351,11-09-2024,Pro Makeup Palette,Beauty,West,SR004,20,45,16,5
+ORD20017,30-05-2023,Denim Jeans,Clothing,East,SR003,7,55,20,10
+ORD20545,20-05-2023,Air Fryer Pro,Home & Kitchen,North,SR005,17,110,52,0
+ORD20034,30-03-2024,Sports Hoodie,Clothing,North,SR005,7,60,24,0
+ORD20042,19-04-2024,Casual Shirt,Clothing,North,SR005,19,35,11,20
+ORD20431,13-08-2023,Skincare Routine Kit,Beauty,North,SR009,17,60,20,10
+ORD20700,25-02-2024,Instant Pot,Home & Kitchen,East,SR003,6,95,48,N/A
+ORD20098,17-10-2023,Laptop Pro 15,Electronics,East,SR007,16,850,520,20
+ORD20836,17-12-2023,Luxury Bedding Set,Home & Kitchen,North,SR005,9,70,28,0
+ORD20006,03-10-2023,Yoga Mat,Sports,South,SR006,18,40,13,0
+ORD20022,17-01-2024,Winter Jacket,Clothing,South,SR002,13,95,40,20
+ORD20474,25-08-2023,Casual Shirt,Clothing,East,SR007,1,35,11,0
+ORD20025,24-03-2024,Yoga Mat,Sports,North,SR005,14,40,13,0
+ORD20590,30-08-2024,Luxury Bedding Set,Home & Kitchen,East,SR007,9,70,28,0
+ORD20584,22-07-2023,Resistance Bands,Sports,North,SR005,8,28,9,0
+ORD20447,06-03-2023,Yoga Mat,Sports,South,SR010,3,40,13,0
+ORD20314,28-07-2023,Dumbbell Set 20kg,Sports,South,SR002,18,130,62,0
+ORD20204,12-08-2023,Skincare Routine Kit,Beauty,North,SR005,11,60,20,5
+ORD20007,01-07-2024,Casual Shirt,Clothing,East,SR007,3,35,11,5
+ORD20025,24-03-2024,Yoga Mat,Sports,North,SR005,14,40,13,0
+ORD20487,31-05-2024,Blender Pro,Home & Kitchen,North,SR001,11,65,26,15
+ORD20725,28-08-2023,Luxury Bedding Set,Home & Kitchen,North,SR005,17,70,28,10
+ORD20080,28-07-2024,Resistance Bands,Sports,East,SR007,3,28,9,0
+ORD20227,08-06-2023,Air Fryer Pro,Home & Kitchen,North,SR005,16,110,52,0
+ORD20070,15-05-2023,Wireless Headphones,Electronics,South,SR010,6,120,62,N/A
+ORD20809,27-08-2024,Laptop Pro 15,Electronics,North,SR005,16,850,520,5
+ORD20137,19-12-2024,Casual Shirt,Clothing,East,SR003,1,35,11,10
+ORD20189,09-09-2024,Dumbbell Set 20kg,Sports,North,SR005,8,130,62,15
+ORD20120,26-01-2023,Smart Watch,Electronics,South,SR010,7,220,125,0
+ORD20131,29-06-2023,Winter Jacket,Clothing,West,SR004,3,95,40,5
+ORD20248,08-06-2024,Dumbbell Set 20kg,Sports,South,SR002,10,130,62,5
+ORD20041,29-07-2024,Tennis Racket Pro,Sports,West,SR008,6,90,40,0
+ORD20812,11-02-2024,Resistance Bands,Sports,South,SR002,13,28,9,0
+ORD20467,09-11-2024,Resistance Bands,Sports,East,SR003,3,28,9,15
+ORD20417,05-10-2024,Serum Bundle,Beauty,West,SR008,16,70,24,0
+ORD20288,26-08-2024,Professional Hair Dryer,Beauty,West,SR008,13,55,23,15
+ORD20524,04-05-2024,Pro Makeup Palette,Beauty,East,SR003,8,45,16,0
+ORD20346,24-12-2024,Road Bicycle,Sports,East,SR003,16,380,205,0
+ORD20588,09-01-2023,Serum Bundle,Beauty,South,SR010,11,70,24,0
+ORD20355,10-08-2023,Denim Jeans,Clothing,East,SR007,2,55,20,20
+ORD20033,27-07-2023,Serum Bundle,Beauty,South,SR002,1,70,24,10
+ORD20821,21-01-2023,Running Shoes,Clothing,East,SR007,1,75,30,0
+ORD20460,01-11-2023,4K Monitor,Electronics,West,SR008,9,430,265,0
+ORD20023,01-11-2024,Casual Shirt,Clothing,West,SR008,12,35,11,15
+ORD20783,19-07-2023,Instant Pot,Home & Kitchen,West,SR004,9,95,48,0
+ORD20440,30-10-2024,,Sports,South,SR006,16,130,62,15
+ORD20688,12-08-2023,Instant Pot,Home & Kitchen,North,SR005,8,95,48,0
+ORD20290,01-01-2023,Yoga Mat,Sports,North,SR005,19,40,13,0
+ORD20330,07-08-2023,,Sports,South,SR002,5,90,40,15
+ORD20171,20-04-2024,Tennis Racket Pro,Sports,East,SR003,6,90,40,5
+ORD20418,13-03-2023,Casual Shirt,Clothing,South,SR010,19,35,11,10
+ORD20329,09-10-2024,Tablet X Pro,Electronics,East,SR007,5,450,275,5
+ORD20742,14-03-2023,Casual Shirt,Clothing,East,SR003,18,35,11,10
+ORD20832,06-01-2023,Air Fryer Pro,Home & Kitchen,North,SR005,16,110,52,20
+ORD20336,01-05-2024,4K Monitor,Electronics,South,SR010,19,430,265,15
+ORD20726,02-04-2023,Dumbbell Set 20kg,Sports,East,SR007,9,130,62,10
+ORD20498,21-10-2024,Instant Pot,Home & Kitchen,North,SR001,15,95,48,0
+ORD20458,11-10-2024,Pro Makeup Palette,Beauty,South,SR010,12,45,16,15
+ORD20030,14-11-2024,Coffee Maker,Home & Kitchen,West,SR004,18,85,38,15
+ORD20186,06-12-2023,Skincare Routine Kit,Beauty,North,SR009,6,60,20,0
+ORD20088,22-11-2023,Smart Watch,Electronics,East,SR007,19,220,125,0
+ORD20735,16-03-2023,Smart Watch,Electronics,East,SR007,13,220,125,5
+ORD20513,06-05-2023,Serum Bundle,Beauty,North,SR001,9,70,24,0
+ORD20167,26-09-2023,Dumbbell Set 20kg,Sports,West,SR008,15,130,62,0
+ORD20011,11-03-2024,Yoga Mat,Sports,West,SR008,3,40,13,0
+ORD20059,08-09-2024,Pro Makeup Palette,Beauty,West,SR004,3,45,16,20
+ORD20610,21-09-2023,Dumbbell Set 20kg,Sports,South,SR010,10,130,62,10
+ORD20683,12-04-2024,Running Shoes,Clothing,North,SR001,20,75,30,0
+ORD20142,09-04-2024,Wireless Headphones,Electronics,North,SR009,3,120,62,0
+ORD20465,27-12-2023,Tablet X Pro,Electronics,West,SR004,18,450,275,20
+ORD20193,21-06-2023,Pro Makeup Palette,Beauty,North,SR005,1,45,16,20
+ORD20548,09-01-2023,Smart Watch,Electronics,North,SR005,17,220,125,5
+ORD20827,21-06-2024,Skincare Routine Kit,Beauty,North,SR009,20,60,20,0
+ORD20298,15-09-2024,Laptop Pro 15,Electronics,North,SR001,20,850,520,0
+ORD20203,02-04-2024,Dumbbell Set 20kg,Sports,North,SR005,8,130,62,20
+ORD20368,19-12-2024,Casual Shirt,Clothing,South,SR010,16,35,11,10
+ORD20318,02-10-2024,Blender Pro,Home & Kitchen,South,SR006,7,65,26,0
+ORD20416,20-02-2024,Resistance Bands,Sports,North,SR001,18,28,9,15
+ORD20563,23-06-2024,Tennis Racket Pro,Sports,South,SR006,12,90,40,0
+ORD20696,23-04-2023,Dumbbell Set 20kg,Sports,West,SR008,17,130,62,20
+ORD20096,06-09-2023,Serum Bundle,Beauty,North,SR005,7,70,24,5
+ORD20031,17-10-2024,Running Shoes,Clothing,North,SR005,9,75,30,15
+ORD20300,28-03-2024,Casual Shirt,Clothing,South,SR010,19,35,11,5
+ORD20432,30-04-2024,Luxury Bedding Set,Home & Kitchen,West,SR004,6,70,28,0
+ORD20540,07-12-2023,Sports Hoodie,Clothing,South,SR010,24,60,24,15
+ORD20274,21-11-2024,Yoga Mat,Sports,North,SR009,18,40,13,0
+ORD20731,25-10-2024,Dumbbell Set 20kg,Sports,West,SR004,20,130,62,0
+ORD20141,05-11-2023,4K Monitor,Electronics,West,SR008,12,430,265,20
+ORD20614,31-12-2023,4K Monitor,Electronics,East,SR007,28,430,265,5
+ORD20401,03-04-2023,Luxury Perfume Set,Beauty,North,SR001,11,80,28,20
+ORD20581,18-09-2023,Road Bicycle,Sports,East,SR003,19,380,205,10
+ORD20699,15-09-2023,Luxury Bedding Set,Home & Kitchen,North,SR005,14,70,28,10
+ORD20589,10-02-2023,Smart Watch,Electronics,East,SR007,16,220,125,5
+ORD20334,24-08-2024,Luxury Perfume Set,Beauty,South,SR006,4,80,28,10
+ORD20728,01-11-2024,Serum Bundle,Beauty,West,SR004,10,70,24,0
+ORD20746,24-05-2024,Instant Pot,Home & Kitchen,South,SR002,1,95,48,0
+ORD20145,12-10-2024,Tennis Racket Pro,Sports,North,SR009,1,90,40,0
+ORD20488,07-04-2024,Yoga Mat,Sports,East,SR003,5,40,13,5
+ORD20235,06-07-2023,Serum Bundle,Beauty,North,SR009,18,70,24,0
+ORD20012,26-01-2024,Skincare Routine Kit,Beauty,North,SR005,11,60,20,0
+ORD20719,09-09-2024,Smart Watch,Electronics,East,SR007,16,220,125,10
+ORD20441,04-10-2023,Professional Hair Dryer,Beauty,East,SR003,19,55,23,5
+ORD20005,25-06-2024,Coffee Maker,Home & Kitchen,South,SR010,3,85,38,5
+ORD20266,05-08-2024,Pro Makeup Palette,Beauty,North,SR005,19,45,16,10
+ORD20601,28-08-2023,Serum Bundle,Beauty,South,SR002,12,70,24,5
+ORD20733,19-10-2023,Casual Shirt,Clothing,North,SR009,19,35,11,15
+ORD20029,19-07-2023,Pro Makeup Palette,Beauty,South,SR010,13,45,16,0
+ORD20623,01-05-2023,Pro Makeup Palette,Beauty,West,SR008,14,45,16,15
+ORD20209,31-03-2024,Air Fryer Pro,Home & Kitchen,South,SR006,13,110,52,10
+ORD20105,21-10-2023,4K Monitor,Electronics,South,SR002,6,430,265,20
+ORD20529,08-03-2024,Denim Jeans,Clothing,South,SR010,7,55,20,10
+ORD20549,30-05-2023,Luxury Bedding Set,Home & Kitchen,South,SR002,15,70,28,0
+ORD20249,23-08-2024,Luxury Perfume Set,Beauty,West,SR004,14,80,28,10
+ORD20797,31-01-2024,Instant Pot,Home & Kitchen,South,SR002,12,95,48,20
+ORD20064,30-11-2024,Sports Hoodie,Clothing,South,SR006,16,60,24,20
+ORD20765,06-04-2023,Running Shoes,Clothing,North,SR009,9,75,30,15
+ORD20323,25-11-2023,Tennis Racket Pro,Sports,West,SR008,22,90,40,10
+ORD20526,26-07-2023,Tablet X Pro,Electronics,North,SR009,18,450,275,20
+ORD20632,18-12-2024,Blender Pro,Home & Kitchen,North,SR009,15,65,26,20
+ORD20710,07-07-2024,Luxury Bedding Set,Home & Kitchen,North,SR009,15,70,28,0
+ORD20615,02-11-2023,Road Bicycle,Sports,West,SR004,9,380,205,5
+ORD20391,19-07-2023,Skincare Routine Kit,Beauty,West,SR008,17,60,20,20
+ORD20292,22-02-2023,Sports Hoodie,Clothing,South,SR002,3,60,24,0
+ORD20121,13-02-2023,Instant Pot,Home & Kitchen,East,SR007,15,95,48,15
+ORD20352,31-05-2024,Yoga Mat,Sports,North,SR009,17,40,13,20
+ORD20561,14-12-2024,Coffee Maker,Home & Kitchen,North,SR001,21,85,38,20
+ORD20748,14-07-2023,Winter Jacket,Clothing,East,SR003,4,95,40,0
+ORD20555,19-04-2023,Road Bicycle,Sports,West,SR008,18,380,205,10
+ORD20692,17-12-2024,Dumbbell Set 20kg,Sports,South,SR010,3,130,62,5
+ORD20656,17-05-2024,Dumbbell Set 20kg,Sports,South,SR010,4,130,62,0
+ORD20628,30-07-2024,Sports Hoodie,Clothing,East,SR007,20,60,24,0
+ORD20734,12-04-2024,Luxury Bedding Set,Home & Kitchen,West,SR004,14,70,28,10
+ORD20509,13-09-2024,Instant Pot,Home & Kitchen,South,SR010,15,95,48,5
+ORD20277,10-03-2023,Air Fryer Pro,Home & Kitchen,East,SR007,12,110,52,10
+ORD20019,28-05-2024,Winter Jacket,Clothing,South,SR006,10,95,40,0
+ORD20435,31-07-2023,Yoga Mat,Sports,East,SR003,15,40,13,5
+ORD20799,28-03-2023,Air Fryer Pro,Home & Kitchen,North,SR009,4,110,52,0
+ORD20268,17-06-2023,Running Shoes,Clothing,North,SR009,16,75,30,0
+ORD20071,07-07-2023,Smart Watch,Electronics,North,SR005,19,220,125,20
+ORD20214,24-04-2023,Pro Makeup Palette,Beauty,West,SR004,9,45,16,20
+ORD20119,22-07-2024,Air Fryer Pro,Home & Kitchen,North,SR005,7,110,52,0
+ORD20406,08-12-2023,Instant Pot,Home & Kitchen,West,SR008,15,95,48,5
+ORD20275,01-01-2023,,Home & Kitchen,East,SR003,5,85,38,5
+ORD20512,03-12-2024,Dumbbell Set 20kg,Sports,North,SR001,19,130,62,0
+ORD20575,11-04-2024,Pro Makeup Palette,Beauty,East,SR007,11,45,16,15
+ORD20622,25-03-2024,Road Bicycle,Sports,West,SR008,7,380,205,15
+ORD20706,12-12-2023,Luxury Bedding Set,Home & Kitchen,East,SR003,22,70,28,0
+ORD20259,18-02-2024,Resistance Bands,Sports,West,SR004,5,28,9,0
+ORD20396,22-12-2023,Running Shoes,Clothing,West,SR008,10,75,30,0
+ORD20704,01-03-2023,Running Shoes,Clothing,East,SR003,12,75,30,0
+ORD20609,27-09-2024,Luxury Bedding Set,Home & Kitchen,East,SR003,19,70,28,0
+ORD20620,06-05-2024,Skincare Routine Kit,Beauty,North,SR001,4,60,20,0
+ORD20166,02-03-2023,Wireless Headphones,Electronics,South,SR006,2,120,62,0
+ORD20087,25-05-2023,Air Fryer Pro,Home & Kitchen,North,SR001,20,110,52,0
+ORD20206,23-03-2024,Casual Shirt,Clothing,North,SR001,1,35,11,0
+ORD20403,12-11-2024,Serum Bundle,Beauty,North,SR005,1,70,24,0
+ORD20762,15-05-2024,Air Fryer Pro,Home & Kitchen,North,SR001,10,110,52,15
+ORD20094,07-09-2023,Instant Pot,Home & Kitchen,South,SR002,3,95,48,0
+ORD20673,17-06-2023,Yoga Mat,Sports,West,SR004,15,40,13,15
+ORD20671,20-01-2023,Blender Pro,Home & Kitchen,North,SR005,3,65,26,0
+ORD20517,21-01-2024,Tennis Racket Pro,Sports,West,SR008,11,90,40,15
+ORD20226,22-07-2023,Tablet X Pro,Electronics,North,SR001,17,450,275,15
+ORD20621,17-06-2024,Blender Pro,Home & Kitchen,North,SR001,17,65,26,20
+ORD20820,17-11-2023,Casual Shirt,Clothing,East,SR007,10,35,11,20
+ORD20645,28-06-2024,Serum Bundle,Beauty,West,SR004,13,70,24,0
+ORD20093,30-12-2024,Luxury Bedding Set,Home & Kitchen,North,SR009,18,70,28,20
+ORD20211,29-12-2023,Coffee Maker,Home & Kitchen,West,SR008,9,85,38,15
+ORD20740,04-09-2024,Air Fryer Pro,Home & Kitchen,North,SR001,10,110,52,10
+ORD20569,20-12-2023,Road Bicycle,Sports,South,SR010,24,380,205,20
+ORD20043,09-08-2024,Denim Jeans,Clothing,East,SR007,16,55,20,15
+ORD20795,02-02-2023,Luxury Bedding Set,Home & Kitchen,East,SR003,20,70,28,20
+ORD20582,08-03-2024,Coffee Maker,Home & Kitchen,South,SR002,17,85,38,15
+ORD20163,03-12-2023,Luxury Perfume Set,Beauty,East,SR007,10,80,28,15
+ORD20684,07-08-2023,Wireless Headphones,Electronics,East,SR007,1,120,62,0
+ORD20593,04-04-2024,Running Shoes,Clothing,South,SR010,6,75,30,15
+ORD20640,22-04-2024,Denim Jeans,Clothing,North,SR009,12,55,20,0
+ORD20032,20-12-2023,Denim Jeans,Clothing,East,SR007,19,55,20,0
+ORD20296,18-08-2023,Sports Hoodie,Clothing,South,SR006,14,60,24,0
+ORD20051,14-03-2023,Luxury Bedding Set,Home & Kitchen,North,SR005,18,70,28,0
+ORD20012,26-01-2024,Skincare Routine Kit,Beauty,North,SR005,11,60,20,0
+ORD20505,02-05-2023,Air Fryer Pro,Home & Kitchen,South,SR006,1,110,52,20
+ORD20542,29-08-2023,Laptop Pro 15,Electronics,East,SR003,1,850,520,0
+ORD20800,15-08-2024,Road Bicycle,Sports,North,SR005,8,380,205,0
+ORD20798,09-05-2023,Denim Jeans,Clothing,South,SR006,15,55,20,0
+ORD20598,29-05-2023,Professional Hair Dryer,Beauty,West,SR004,16,55,23,0
+ORD20786,25-12-2023,Luxury Perfume Set,Beauty,South,SR006,10,80,28,15
+ORD20782,15-12-2024,Luxury Perfume Set,Beauty,South,SR006,13,80,28,10
+ORD20493,20-09-2024,Laptop Pro 15,Electronics,West,SR004,7,850,520,0
+ORD20173,11-04-2023,Pro Makeup Palette,Beauty,West,SR008,16,45,16,0
+ORD20845,22-03-2024,Serum Bundle,Beauty,South,SR006,6,70,24,0
+ORD20342,11-02-2023,Skincare Routine Kit,Beauty,South,SR010,5,60,20,0
+ORD20803,15-07-2024,Tablet X Pro,Electronics,West,SR008,7,450,275,0
+ORD20634,03-04-2023,Resistance Bands,Sports,East,SR007,2,28,9,0
+ORD20397,16-06-2024,Smart Watch,Electronics,North,SR009,8,220,125,0
+ORD20066,11-12-2024,Professional Hair Dryer,Beauty,West,SR004,1,55,23,20
+ORD20585,17-06-2024,4K Monitor,Electronics,North,SR005,15,430,265,15
+ORD20823,16-10-2024,Coffee Maker,Home & Kitchen,North,SR001,18,85,38,0
+ORD20433,23-04-2024,Pro Makeup Palette,Beauty,West,SR004,11,45,16,0
+ORD20570,21-08-2023,Pro Makeup Palette,Beauty,West,SR004,17,45,16,5
+ORD20172,02-09-2024,Resistance Bands,Sports,North,SR009,10,28,9,10
+ORD20769,29-07-2023,Winter Jacket,Clothing,South,SR010,9,95,40,15
+ORD20630,23-06-2023,Luxury Bedding Set,Home & Kitchen,North,SR009,9,70,28,N/A
+ORD20573,12-08-2023,Yoga Mat,Sports,North,SR009,14,40,13,0
+ORD20407,13-07-2024,Tennis Racket Pro,Sports,North,SR005,11,90,40,15
+ORD20354,21-11-2023,Coffee Maker,Home & Kitchen,North,SR009,10,85,38,0
+ORD20155,26-08-2023,Smart Watch,Electronics,East,SR003,6,220,125,15
+ORD20316,09-07-2023,Casual Shirt,Clothing,South,SR006,1,35,11,0
+ORD20217,29-09-2023,Tablet X Pro,Electronics,East,SR007,3,450,275,20
+ORD20134,26-09-2023,Winter Jacket,Clothing,South,SR006,4,95,40,0
+ORD20587,24-08-2024,Luxury Bedding Set,Home & Kitchen,West,SR004,3,70,28,10
+ORD20644,28-08-2024,Winter Jacket,Clothing,East,SR007,1,95,40,20
+ORD20267,04-09-2024,Wireless Headphones,Electronics,East,SR007,3,120,62,5
+ORD20271,18-09-2023,Running Shoes,Clothing,East,SR007,5,75,30,15
+ORD20243,19-09-2023,Tennis Racket Pro,Sports,West,SR004,2,90,40,0
+ORD20008,18-04-2024,Sports Hoodie,Clothing,North,SR009,2,60,24,0
+ORD20716,26-08-2024,Wireless Headphones,Electronics,North,SR005,15,120,62,20
+ORD20382,16-11-2023,Yoga Mat,Sports,West,SR004,4,40,13,0
+ORD20016,02-05-2023,Laptop Pro 15,Electronics,East,SR007,5,850,520,0
+ORD20551,22-07-2023,Skincare Routine Kit,Beauty,North,SR001,10,60,20,15
+ORD20051,14-03-2023,Luxury Bedding Set,Home & Kitchen,North,SR005,18,70,28,0
+ORD20047,19-06-2023,Road Bicycle,Sports,South,SR006,5,380,205,10
+ORD20414,06-04-2024,Professional Hair Dryer,Beauty,South,SR010,4,55,23,20
+ORD20772,17-09-2024,Luxury Perfume Set,Beauty,South,SR010,8,80,28,15
+ORD20263,19-06-2024,Skincare Routine Kit,Beauty,South,SR010,11,60,20,10
+ORD20660,13-07-2023,,Clothing,North,SR001,2,75,30,0
+ORD20388,19-10-2024,Luxury Perfume Set,Beauty,East,SR003,18,80,28,0
+ORD20039,09-02-2024,Winter Jacket,Clothing,North,SR005,13,95,40,20
+ORD20247,26-08-2023,Dumbbell Set 20kg,Sports,South,SR006,17,130,62,0
+ORD20111,03-04-2024,Luxury Perfume Set,Beauty,West,SR004,9,80,28,10
+ORD20603,30-06-2023,Luxury Bedding Set,Home & Kitchen,South,SR006,20,70,28,5
+ORD20118,16-07-2023,Casual Shirt,Clothing,South,SR002,4,35,11,0
+ORD20764,20-08-2023,Blender Pro,Home & Kitchen,South,SR006,17,65,26,0
+ORD20554,05-12-2024,Running Shoes,Clothing,South,SR006,30,75,30,10
+ORD20747,14-11-2023,Sports Hoodie,Clothing,West,SR004,9,60,24,15
+ORD20202,14-03-2024,Running Shoes,Clothing,South,SR010,17,75,30,5
+ORD20218,02-07-2024,Sports Hoodie,Clothing,West,SR004,1,60,24,15
+ORD20804,25-02-2023,Luxury Perfume Set,Beauty,West,SR008,10,80,28,0
+ORD20753,03-10-2024,Running Shoes,Clothing,North,SR001,13,75,30,0
+ORD20168,30-10-2024,Wireless Headphones,Electronics,North,SR009,18,120,62,15
+ORD20756,18-07-2023,Luxury Perfume Set,Beauty,West,SR004,17,80,28,15
+ORD20568,28-03-2024,Road Bicycle,Sports,South,SR006,7,380,205,0
+ORD20690,04-02-2024,Luxury Bedding Set,Home & Kitchen,North,SR005,16,70,28,0
+ORD20469,13-08-2023,Coffee Maker,Home & Kitchen,West,SR004,4,85,38,15
+ORD20456,30-04-2023,Blender Pro,Home & Kitchen,South,SR006,5,65,26,20
+ORD20293,19-07-2023,Instant Pot,Home & Kitchen,South,SR010,6,95,48,0
+ORD20422,25-02-2024,Laptop Pro 15,Electronics,South,SR010,13,850,520,0
+ORD20624,03-11-2024,4K Monitor,Electronics,North,SR001,13,430,265,15
+ORD20607,13-11-2023,Luxury Perfume Set,Beauty,South,SR006,13,80,28,5
+ORD20045,20-05-2024,Smart Watch,Electronics,North,SR001,3,220,125,0
+ORD20317,08-03-2023,Coffee Maker,Home & Kitchen,South,SR006,7,85,38,10
+ORD20356,28-12-2024,Yoga Mat,Sports,East,SR003,10,40,13,5
+ORD20595,18-03-2024,Smart Watch,Electronics,West,SR004,14,220,125,15
+ORD20161,15-11-2024,Resistance Bands,Sports,North,SR009,28,28,9,0
+ORD20677,30-08-2023,Laptop Pro 15,Electronics,North,SR005,5,850,520,0
+ORD20026,02-12-2024,Luxury Perfume Set,Beauty,South,SR002,16,80,28,20
+ORD20556,24-08-2024,Luxury Perfume Set,Beauty,West,SR004,6,80,28,10
+ORD20541,29-07-2023,Luxury Perfume Set,Beauty,South,SR010,6,80,28,0
+ORD20326,01-05-2023,Pro Makeup Palette,Beauty,West,SR008,1,45,16,10
+ORD20194,22-01-2024,Air Fryer Pro,Home & Kitchen,South,SR006,9,110,52,5
+ORD20638,01-08-2023,Air Fryer Pro,Home & Kitchen,West,SR004,2,110,52,15
+ORD20475,19-05-2023,Instant Pot,Home & Kitchen,North,SR001,3,95,48,5
+ORD20497,20-11-2024,Tablet X Pro,Electronics,East,SR007,16,450,275,10
+ORD20629,24-06-2024,Coffee Maker,Home & Kitchen,West,SR008,7,85,38,0
+ORD20010,23-04-2023,Winter Jacket,Clothing,North,SR009,1,95,40,0
+ORD20136,10-10-2023,Luxury Perfume Set,Beauty,South,SR002,14,80,28,0
+ORD20668,28-09-2023,Winter Jacket,Clothing,North,SR005,16,95,40,15
+ORD20024,12-08-2023,Smart Watch,Electronics,North,SR005,8,220,125,5
+ORD20400,18-03-2024,Blender Pro,Home & Kitchen,West,SR004,7,65,26,0
+ORD20162,01-05-2023,Sports Hoodie,Clothing,West,SR008,13,60,24,0
+ORD20185,25-04-2024,Yoga Mat,Sports,West,SR008,1,40,13,0
+ORD20360,12-02-2024,Professional Hair Dryer,Beauty,North,SR001,8,55,23,15
+ORD20489,02-12-2023,Winter Jacket,Clothing,South,SR010,22,95,40,20
+ORD20250,04-04-2024,Air Fryer Pro,Home & Kitchen,South,SR010,5,110,52,15
+ORD20216,26-07-2023,Wireless Headphones,Electronics,West,SR008,5,120,62,0
+ORD20130,14-11-2024,Coffee Maker,Home & Kitchen,North,SR009,16,85,38,5
+ORD20553,29-09-2024,Winter Jacket,Clothing,North,SR005,17,95,40,10
+ORD20113,29-05-2024,Professional Hair Dryer,Beauty,South,SR006,8,55,23,10
+ORD20597,11-07-2023,Denim Jeans,Clothing,West,SR008,16,55,20,15
+ORD20187,29-06-2023,Coffee Maker,Home & Kitchen,East,SR007,12,85,38,0
+ORD20065,21-01-2024,Coffee Maker,Home & Kitchen,South,SR006,9,85,38,10
+ORD20636,10-06-2024,Coffee Maker,Home & Kitchen,West,SR008,12,85,38,0
+ORD20557,25-10-2023,Resistance Bands,Sports,East,SR007,11,28,9,5
+ORD20328,13-11-2023,Tennis Racket Pro,Sports,North,SR001,30,90,40,0
+ORD20657,05-02-2024,Luxury Bedding Set,Home & Kitchen,East,SR007,16,70,28,15
+ORD20767,13-04-2024,Resistance Bands,Sports,East,SR007,6,28,9,10
+ORD20338,20-03-2023,Air Fryer Pro,Home & Kitchen,East,SR007,15,110,52,5
+ORD20838,15-04-2023,Running Shoes,Clothing,West,SR008,7,75,30,5
+ORD20667,25-04-2024,Air Fryer Pro,Home & Kitchen,West,SR008,2,110,52,5
+ORD20550,29-01-2024,,Beauty,North,SR001,6,60,20,20
+ORD20108,14-09-2023,Luxury Perfume Set,Beauty,North,SR005,6,80,28,20
+ORD20502,22-03-2024,Serum Bundle,Beauty,North,SR001,6,70,24,0
+ORD20055,17-09-2024,,Beauty,West,SR004,6,70,24,0
+ORD20037,02-02-2023,Tablet X Pro,Electronics,North,SR005,2,450,275,5
+ORD20833,11-06-2024,Wireless Headphones,Electronics,North,SR009,7,120,62,10
+ORD20301,27-07-2023,Blender Pro,Home & Kitchen,East,SR003,15,65,26,0
+ORD20831,28-05-2023,Professional Hair Dryer,Beauty,South,SR006,8,55,23,0
+ORD20450,29-03-2024,Pro Makeup Palette,Beauty,North,SR005,10,45,16,20
+ORD20693,13-06-2023,Casual Shirt,Clothing,East,SR003,14,35,11,15
+ORD20303,14-08-2023,Serum Bundle,Beauty,South,SR010,16,70,24,15
+ORD20478,27-09-2024,Air Fryer Pro,Home & Kitchen,North,SR001,12,110,52,10
+ORD20627,27-08-2023,Luxury Bedding Set,Home & Kitchen,North,SR001,6,70,28,15
+ORD20546,07-04-2023,Blender Pro,Home & Kitchen,South,SR010,13,65,26,15
+ORD20738,17-05-2024,Air Fryer Pro,Home & Kitchen,North,SR005,6,110,52,0
+ORD20664,30-04-2024,Blender Pro,Home & Kitchen,West,SR004,2,65,26,0
+ORD20461,25-02-2024,Winter Jacket,Clothing,East,SR003,2,95,40,15
+ORD20010,23-04-2023,Winter Jacket,Clothing,North,SR009,1,95,40,0
+ORD20481,11-12-2024,Denim Jeans,Clothing,North,SR001,27,55,20,15
+ORD20544,08-06-2024,Tablet X Pro,Electronics,South,SR002,5,450,275,10
+ORD20816,10-01-2024,Skincare Routine Kit,Beauty,North,SR001,8,60,20,0
+ORD20574,13-10-2024,Wireless Headphones,Electronics,North,SR001,8,120,62,5
+ORD20566,14-03-2023,Coffee Maker,Home & Kitchen,South,SR010,8,85,38,15
+ORD20164,05-10-2024,Wireless Headphones,Electronics,South,SR002,8,120,62,20
+ORD20102,30-07-2024,Laptop Pro 15,Electronics,South,SR002,3,850,520,15
+ORD20251,20-04-2024,Denim Jeans,Clothing,West,SR004,16,55,20,0
+ORD20423,11-03-2024,Winter Jacket,Clothing,North,SR005,11,95,40,0
+ORD20046,09-10-2023,Serum Bundle,Beauty,North,SR001,1,70,24,10
+ORD20225,10-07-2023,Blender Pro,Home & Kitchen,North,SR001,12,65,26,10
+ORD20192,25-02-2023,Running Shoes,Clothing,South,SR006,5,75,30,10
+ORD20516,21-11-2023,Resistance Bands,Sports,West,SR004,15,28,9,0
+ORD20125,10-09-2024,Dumbbell Set 20kg,Sports,East,SR007,12,130,62,10
+ORD20349,08-08-2024,Resistance Bands,Sports,North,SR009,4,28,9,0
+ORD20057,20-10-2024,Denim Jeans,Clothing,South,SR002,17,55,20,15
+ORD20092,25-07-2024,Tennis Racket Pro,Sports,South,SR006,13,90,40,20
+ORD20685,30-07-2023,Air Fryer Pro,Home & Kitchen,East,SR003,17,110,52,15
+ORD20637,06-03-2024,Air Fryer Pro,Home & Kitchen,South,SR006,13,110,52,20
+ORD20496,27-03-2023,Tablet X Pro,Electronics,South,SR006,17,450,275,0
+ORD20697,30-05-2024,Air Fryer Pro,Home & Kitchen,West,SR004,14,110,52,0
+ORD20201,29-01-2024,Blender Pro,Home & Kitchen,West,SR004,12,65,26,0
+ORD20358,24-01-2023,Running Shoes,Clothing,West,SR004,10,75,30,5
+ORD20151,17-01-2024,Instant Pot,Home & Kitchen,North,SR001,18,95,48,20
+ORD20521,20-01-2023,Coffee Maker,Home & Kitchen,West,SR004,4,85,38,20
+ORD20675,16-11-2024,Running Shoes,Clothing,South,SR010,19,75,30,15
+ORD20107,31-01-2024,Denim Jeans,Clothing,North,SR005,4,55,20,0
+ORD20236,08-06-2024,Winter Jacket,Clothing,West,SR004,4,95,40,5
+ORD20415,31-10-2023,Pro Makeup Palette,Beauty,East,SR003,4,45,16,10
+ORD20034,30-03-2024,Sports Hoodie,Clothing,North,SR005,7,60,24,0
+ORD20625,25-09-2024,Pro Makeup Palette,Beauty,North,SR009,13,45,16,0
+ORD20737,01-04-2023,Air Fryer Pro,Home & Kitchen,South,SR002,12,110,52,20
+ORD20036,22-01-2023,Air Fryer Pro,Home & Kitchen,South,SR010,4,110,52,20
+ORD20079,04-09-2023,Wireless Headphones,Electronics,North,SR009,17,120,62,0
+ORD20796,11-06-2023,Coffee Maker,Home & Kitchen,West,SR004,1,85,38,0
+ORD20399,25-07-2024,Luxury Perfume Set,Beauty,South,SR002,7,80,28,20
+ORD20486,20-08-2024,Coffee Maker,Home & Kitchen,West,SR004,9,85,38,0
+ORD20618,13-01-2024,Professional Hair Dryer,Beauty,East,SR007,3,55,23,0
+ORD20829,07-01-2024,Denim Jeans,Clothing,South,SR006,3,55,20,5
+ORD20212,13-02-2023,Instant Pot,Home & Kitchen,North,SR005,7,95,48,15
+ORD20215,07-05-2023,Dumbbell Set 20kg,Sports,North,SR009,2,130,62,0
+ORD20272,13-10-2023,Smart Watch,Electronics,East,SR003,12,220,125,5
+ORD20190,31-03-2023,Skincare Routine Kit,Beauty,North,SR005,16,60,20,0
+ORD20790,06-06-2023,Running Shoes,Clothing,North,SR005,10,75,30,20
+ORD20393,06-03-2024,Winter Jacket,Clothing,North,SR001,1,95,40,10
+ORD20430,15-04-2023,Dumbbell Set 20kg,Sports,South,SR006,5,130,62,5
+ORD20153,25-12-2024,4K Monitor,Electronics,West,SR008,21,430,265,15
+ORD20133,18-04-2023,Road Bicycle,Sports,South,SR010,7,380,205,20
+ORD20741,04-01-2023,Sports Hoodie,Clothing,East,SR003,7,60,24,20
+ORD20455,31-07-2024,Skincare Routine Kit,Beauty,East,SR007,19,60,20,0
+ORD20373,07-08-2023,Laptop Pro 15,Electronics,South,SR002,15,850,520,20
+ORD20123,20-12-2024,Winter Jacket,Clothing,South,SR006,16,95,40,15
+ORD20219,09-04-2024,Resistance Bands,Sports,South,SR010,20,28,9,0
+ORD20712,31-08-2023,Denim Jeans,Clothing,West,SR004,7,55,20,20
+ORD20436,27-07-2024,Coffee Maker,Home & Kitchen,North,SR009,7,85,38,5
+ORD20143,02-07-2024,Casual Shirt,Clothing,North,SR009,2,35,11,0
+ORD20223,30-08-2023,Sports Hoodie,Clothing,South,SR002,17,60,24,0
+ORD20789,12-05-2023,Smart Watch,Electronics,North,SR005,13,220,125,10
+ORD20231,15-04-2024,Luxury Bedding Set,Home & Kitchen,West,SR008,6,70,28,0
+ORD20698,15-10-2024,Resistance Bands,Sports,South,SR010,16,28,9,10
+ORD20647,12-11-2024,Pro Makeup Palette,Beauty,West,SR008,9,45,16,0
+ORD20522,23-08-2024,Winter Jacket,Clothing,West,SR004,13,95,40,5
+ORD20374,29-10-2024,Serum Bundle,Beauty,West,SR008,11,70,24,0
+ORD20055,17-09-2024,,Beauty,West,SR004,6,70,24,0
+ORD20453,18-05-2023,Serum Bundle,Beauty,South,SR010,7,70,24,15
+ORD20535,14-07-2024,Professional Hair Dryer,Beauty,West,SR008,14,55,23,10
+ORD20003,18-01-2024,Professional Hair Dryer,Beauty,South,SR010,13,55,23,20
+ORD20375,06-11-2023,Yoga Mat,Sports,East,SR007,18,40,13,15
+ORD20619,27-11-2024,Running Shoes,Clothing,East,SR007,24,75,30,0
+ORD20457,10-01-2024,Winter Jacket,Clothing,North,SR001,3,95,40,20
+ORD20304,09-08-2023,Casual Shirt,Clothing,North,SR009,19,35,11,15
+ORD20681,14-01-2024,Resistance Bands,Sports,North,SR001,8,28,9,5
+ORD20158,09-06-2023,Winter Jacket,Clothing,South,SR006,18,95,40,5
+ORD20013,26-02-2023,Dumbbell Set 20kg,Sports,North,SR009,7,130,62,5
+ORD20608,09-08-2023,Coffee Maker,Home & Kitchen,South,SR002,4,85,38,20
+ORD20616,17-07-2023,Professional Hair Dryer,Beauty,North,SR001,16,55,23,20
+ORD20476,20-11-2023,Dumbbell Set 20kg,Sports,West,SR008,10,130,62,20
+ORD20335,10-12-2023,Laptop Pro 15,Electronics,North,SR005,7,850,520,0
+ORD20445,12-09-2023,Tablet X Pro,Electronics,West,SR004,2,450,275,20
+ORD20814,14-05-2023,Running Shoes,Clothing,South,SR006,5,75,30,0
+ORD20723,24-06-2023,Resistance Bands,Sports,West,SR008,16,28,9,15
+ORD20543,04-06-2023,Resistance Bands,Sports,South,SR010,11,28,9,20
+ORD20367,17-03-2023,Wireless Headphones,Electronics,North,SR009,3,120,62,15
+ORD20508,01-12-2024,Running Shoes,Clothing,North,SR009,28,75,30,10
+ORD20169,23-11-2023,Pro Makeup Palette,Beauty,East,SR007,13,45,16,15
+ORD20754,21-07-2023,Wireless Headphones,Electronics,North,SR001,5,120,62,0
+ORD20428,17-06-2024,Denim Jeans,Clothing,South,SR002,9,55,20,10
+ORD20313,07-02-2024,Instant Pot,Home & Kitchen,North,SR005,4,95,48,0
+ORD20278,21-04-2023,Professional Hair Dryer,Beauty,East,SR003,2,55,23,10
+ORD20038,03-10-2024,Instant Pot,Home & Kitchen,North,SR005,19,95,48,10
+ORD20286,07-09-2024,Yoga Mat,Sports,North,SR005,1,40,13,0
+ORD20446,08-04-2024,Laptop Pro 15,Electronics,North,SR001,7,850,520,5
+ORD20039,09-02-2024,Winter Jacket,Clothing,North,SR005,13,95,40,20
+ORD20523,16-04-2024,Tennis Racket Pro,Sports,West,SR008,9,90,40,0
+ORD20148,02-10-2024,Coffee Maker,Home & Kitchen,North,SR001,2,85,38,15
+ORD20307,21-02-2023,Smart Watch,Electronics,North,SR005,10,220,125,5
+ORD20232,18-06-2024,Coffee Maker,Home & Kitchen,South,SR010,15,85,38,0
+ORD20739,23-05-2023,Serum Bundle,Beauty,East,SR007,15,70,24,0
+ORD20514,10-08-2023,Casual Shirt,Clothing,East,SR003,11,35,11,5
+ORD20768,13-09-2024,Running Shoes,Clothing,South,SR010,9,75,30,0
+ORD20788,02-09-2024,Road Bicycle,Sports,North,SR009,18,380,205,0
+ORD20320,23-09-2024,Smart Watch,Electronics,East,SR007,1,220,125,5
+ORD20150,23-12-2023,Instant Pot,Home & Kitchen,East,SR003,7,95,48,15
+ORD20324,09-05-2024,Sports Hoodie,Clothing,East,SR007,9,60,24,0
+ORD20156,16-08-2023,Sports Hoodie,Clothing,North,SR001,10,60,24,0
+ORD20207,12-09-2023,Winter Jacket,Clothing,South,SR002,3,95,40,0
+ORD20254,28-02-2023,Resistance Bands,Sports,West,SR008,7,28,9,0
+ORD20424,23-07-2023,Luxury Bedding Set,Home & Kitchen,North,SR001,1,70,28,0
+ORD20437,30-04-2023,Running Shoes,Clothing,South,SR002,17,75,30,10
+ORD20600,12-02-2024,Wireless Headphones,Electronics,North,SR009,20,120,62,10
+ORD20730,12-01-2023,Casual Shirt,Clothing,North,SR009,6,35,11,0
+ORD20129,03-12-2023,Sports Hoodie,Clothing,South,SR006,6,60,24,15
+ORD20480,06-08-2023,Instant Pot,Home & Kitchen,East,SR003,10,95,48,0
+ORD20646,11-03-2023,Sports Hoodie,Clothing,North,SR005,15,60,24,10
+ORD20705,11-03-2023,Road Bicycle,Sports,West,SR004,12,380,205,0
+ORD20014,10-05-2023,Pro Makeup Palette,Beauty,North,SR005,12,45,16,15
+ORD20822,29-07-2024,Smart Watch,Electronics,South,SR010,4,220,125,10
+ORD20196,09-11-2023,Winter Jacket,Clothing,North,SR001,18,95,40,5
+ORD20707,08-03-2024,Coffee Maker,Home & Kitchen,North,SR009,4,85,38,15
+ORD20237,09-11-2023,Pro Makeup Palette,Beauty,South,SR002,25,45,16,5
+ORD20680,19-01-2023,Sports Hoodie,Clothing,East,SR003,14,60,24,0
+ORD20777,31-01-2024,Wireless Headphones,Electronics,East,SR003,4,120,62,5
+ORD20387,07-05-2024,Winter Jacket,Clothing,South,SR002,1,95,40,10
+ORD20506,26-07-2023,Luxury Perfume Set,Beauty,North,SR009,7,80,28,20
+ORD20759,25-06-2024,Luxury Bedding Set,Home & Kitchen,East,SR003,10,70,28,15
+ORD20515,08-10-2024,Luxury Perfume Set,Beauty,East,SR007,10,80,28,0
+ORD20178,23-12-2024,Smart Watch,Electronics,North,SR005,3,220,125,0
+ORD20029,19-07-2023,Pro Makeup Palette,Beauty,South,SR010,13,45,16,0
+ORD20061,11-02-2024,Tablet X Pro,Electronics,South,SR010,1,450,275,0
+ORD20825,07-08-2023,,Beauty,South,SR010,12,70,24,0
+ORD20077,12-09-2023,Denim Jeans,Clothing,East,SR003,6,55,20,20
+ORD20599,24-05-2024,Air Fryer Pro,Home & Kitchen,South,SR010,9,110,52,15
+ORD20106,23-12-2024,Air Fryer Pro,Home & Kitchen,East,SR003,21,110,52,0
+ORD20682,19-05-2023,Blender Pro,Home & Kitchen,West,SR004,6,65,26,0
+ORD20262,29-01-2023,Dumbbell Set 20kg,Sports,South,SR010,3,130,62,20
+ORD20269,23-04-2023,Resistance Bands,Sports,South,SR002,15,28,9,15
+ORD20840,01-03-2023,Coffee Maker,Home & Kitchen,South,SR002,8,85,38,N/A
+ORD20238,04-01-2023,Pro Makeup Palette,Beauty,South,SR010,20,45,16,0
+ORD20729,14-03-2024,Winter Jacket,Clothing,South,SR006,12,95,40,20
+ORD20560,13-02-2023,Sports Hoodie,Clothing,North,SR009,11,60,24,N/A
+ORD20533,13-07-2024,Smart Watch,Electronics,South,SR002,3,220,125,0
+ORD20385,06-08-2023,,Beauty,South,SR010,13,80,28,10
+ORD20244,27-03-2023,Skincare Routine Kit,Beauty,West,SR004,13,60,20,0
+ORD20757,14-07-2024,Wireless Headphones,Electronics,South,SR006,17,120,62,10
+ORD20257,28-01-2024,Casual Shirt,Clothing,East,SR003,12,35,11,15
+ORD20835,02-08-2024,Tennis Racket Pro,Sports,North,SR005,7,90,40,10
+ORD20678,16-08-2024,Luxury Bedding Set,Home & Kitchen,East,SR007,10,70,28,5
+ORD20067,08-06-2024,Tennis Racket Pro,Sports,North,SR005,8,90,40,0
+ORD20344,24-07-2023,Road Bicycle,Sports,East,SR003,18,380,205,0
+ORD20411,06-06-2024,Denim Jeans,Clothing,North,SR009,9,55,20,0
+ORD20258,10-10-2024,Serum Bundle,Beauty,South,SR002,16,70,24,0
+ORD20794,25-02-2023,Professional Hair Dryer,Beauty,West,SR008,16,55,23,20
+ORD20285,19-12-2023,Dumbbell Set 20kg,Sports,South,SR010,27,130,62,10
+ORD20702,02-08-2023,4K Monitor,Electronics,West,SR008,2,430,265,0
+ORD20390,28-08-2024,Air Fryer Pro,Home & Kitchen,West,SR004,4,110,52,0
+ORD20297,20-04-2023,Air Fryer Pro,Home & Kitchen,South,SR010,11,110,52,0
+ORD20774,27-11-2023,Skincare Routine Kit,Beauty,East,SR007,19,60,20,15
+ORD20766,08-10-2024,Wireless Headphones,Electronics,South,SR010,6,120,62,10
+ORD20438,13-10-2024,Casual Shirt,Clothing,West,SR004,10,35,11,15
+ORD20504,31-08-2023,Air Fryer Pro,Home & Kitchen,East,SR007,3,110,52,20
+ORD20191,19-12-2023,Winter Jacket,Clothing,South,SR002,19,95,40,20
+ORD20691,20-10-2024,Blender Pro,Home & Kitchen,East,SR007,15,65,26,0
+ORD20089,23-01-2023,Winter Jacket,Clothing,North,SR009,1,95,40,0
+ORD20252,19-03-2023,Road Bicycle,Sports,South,SR006,20,380,205,10
+ORD20072,21-10-2024,Winter Jacket,Clothing,East,SR007,2,95,40,10
+ORD20309,31-08-2024,4K Monitor,Electronics,East,SR007,15,430,265,0
+ORD20291,03-09-2023,Road Bicycle,Sports,South,SR006,10,380,205,0
+ORD20160,25-05-2023,Instant Pot,Home & Kitchen,East,SR003,20,95,48,0
+ORD20056,12-07-2023,Blender Pro,Home & Kitchen,North,SR001,10,65,26,0
+ORD20104,25-11-2023,Laptop Pro 15,Electronics,North,SR001,10,850,520,0
+ORD20606,24-02-2023,4K Monitor,Electronics,West,SR004,11,430,265,10
+ORD20751,30-09-2023,Dumbbell Set 20kg,Sports,East,SR003,4,130,62,0
+ORD20040,03-12-2023,Blender Pro,Home & Kitchen,East,SR003,7,65,26,0
+ORD20050,30-04-2023,Running Shoes,Clothing,East,SR007,16,75,30,0
+ORD20817,23-02-2023,Coffee Maker,Home & Kitchen,West,SR004,6,85,38,15
+ORD20280,03-11-2024,Wireless Headphones,Electronics,East,SR003,3,120,62,N/A
+ORD20843,03-09-2024,Winter Jacket,Clothing,South,SR006,12,95,40,0
+ORD20386,21-12-2023,Winter Jacket,Clothing,North,SR001,24,95,40,0
+ORD20085,19-12-2023,Wireless Headphones,Electronics,South,SR006,19,120,62,0
+ORD20443,13-07-2024,Instant Pot,Home & Kitchen,West,SR008,10,95,48,10
+ORD20805,08-08-2023,Skincare Routine Kit,Beauty,South,SR010,14,60,20,5
+ORD20806,18-01-2024,Laptop Pro 15,Electronics,East,SR003,8,850,520,15
+ORD20758,14-08-2024,Instant Pot,Home & Kitchen,West,SR008,7,95,48,5
+ORD20846,08-08-2024,Casual Shirt,Clothing,South,SR002,4,35,11,15
+ORD20273,03-08-2024,Tennis Racket Pro,Sports,West,SR004,10,90,40,0
+ORD20482,18-03-2023,Laptop Pro 15,Electronics,West,SR008,20,850,520,0
+ORD20199,04-09-2024,Yoga Mat,Sports,North,SR005,3,40,13,20
+ORD20264,16-02-2023,Yoga Mat,Sports,North,SR005,16,40,13,0
+ORD20345,15-01-2023,Resistance Bands,Sports,North,SR005,5,28,9,10
+ORD20849,07-08-2023,Yoga Mat,Sports,South,SR010,15,40,13,15
+ORD20483,08-03-2023,Resistance Bands,Sports,North,SR005,10,28,9,10
+ORD20470,22-03-2024,Coffee Maker,Home & Kitchen,West,SR008,6,85,38,0
+ORD20477,01-05-2024,Winter Jacket,Clothing,West,SR008,2,95,40,15
+ORD20369,20-03-2023,Smart Watch,Electronics,South,SR006,5,220,125,10
+ORD20720,21-07-2023,Wireless Headphones,Electronics,South,SR006,13,120,62,0
+ORD20658,03-01-2024,Winter Jacket,Clothing,South,SR002,15,95,40,10
+ORD20564,26-04-2023,Denim Jeans,Clothing,East,SR007,3,55,20,10
+ORD20176,07-07-2024,Pro Makeup Palette,Beauty,South,SR002,1,45,16,0
+ORD20279,01-12-2023,Yoga Mat,Sports,South,SR006,15,40,13,0
+ORD20686,26-06-2024,Casual Shirt,Clothing,West,SR008,8,35,11,20
+ORD20828,07-07-2024,Road Bicycle,Sports,South,SR010,15,380,205,20
+ORD20294,19-02-2023,Running Shoes,Clothing,East,SR007,19,75,30,0
+ORD20074,04-05-2024,Dumbbell Set 20kg,Sports,South,SR006,20,130,62,0
+ORD20028,17-10-2023,Professional Hair Dryer,Beauty,East,SR007,13,55,23,15
+ORD20659,16-04-2023,Tablet X Pro,Electronics,North,SR001,10,450,275,5
+ORD20530,18-12-2023,Blender Pro,Home & Kitchen,West,SR004,4,65,26,20
+ORD20652,21-07-2024,Professional Hair Dryer,Beauty,North,SR005,13,55,23,20
+ORD20676,11-03-2023,Dumbbell Set 20kg,Sports,North,SR009,1,130,62,0
+ORD20331,24-09-2023,Yoga Mat,Sports,North,SR001,2,40,13,0
+ORD20650,18-09-2024,Winter Jacket,Clothing,North,SR005,5,95,40,15
+ORD20057,20-10-2024,Denim Jeans,Clothing,South,SR002,17,55,20,15
+ORD20348,17-05-2023,Winter Jacket,Clothing,East,SR007,10,95,40,5
+ORD20152,01-07-2023,Road Bicycle,Sports,West,SR004,17,380,205,0
+ORD20591,06-10-2023,Serum Bundle,Beauty,East,SR003,18,70,24,5
+ORD20132,11-07-2024,Resistance Bands,Sports,East,SR007,13,28,9,0
+ORD20771,08-12-2024,4K Monitor,Electronics,North,SR005,22,430,265,0
+ORD20312,30-08-2024,Professional Hair Dryer,Beauty,West,SR008,10,55,23,0
+ORD20124,05-10-2024,Running Shoes,Clothing,North,SR009,17,75,30,10
+ORD20670,09-01-2023,Tablet X Pro,Electronics,South,SR010,18,450,275,10
+ORD20654,02-10-2024,Smart Watch,Electronics,South,SR006,8,220,125,15
+ORD20353,27-04-2023,Winter Jacket,Clothing,North,SR005,6,95,40,0
+ORD20520,19-08-2024,Luxury Bedding Set,Home & Kitchen,East,SR007,15,70,28,0
+ORD20365,26-08-2023,Road Bicycle,Sports,West,SR008,14,380,205,20
+ORD20359,05-09-2023,Tablet X Pro,Electronics,North,SR005,9,450,275,15
+ORD20713,10-05-2023,Road Bicycle,Sports,West,SR008,8,380,205,20
+ORD20015,06-09-2024,Wireless Headphones,Electronics,West,SR008,5,120,62,10
+ORD20261,30-10-2023,Denim Jeans,Clothing,South,SR002,15,55,20,0
+ORD20340,28-02-2023,Pro Makeup Palette,Beauty,West,SR004,2,45,16,20
+ORD20146,09-06-2023,Professional Hair Dryer,Beauty,North,SR001,14,55,23,0
+ORD20807,28-11-2024,Sports Hoodie,Clothing,South,SR010,15,60,24,20
+ORD20347,02-07-2024,Professional Hair Dryer,Beauty,East,SR007,13,55,23,5
+ORD20811,19-04-2024,Smart Watch,Electronics,South,SR002,9,220,125,0
+ORD20242,03-05-2024,Sports Hoodie,Clothing,West,SR004,2,60,24,0
+ORD20281,21-09-2024,Skincare Routine Kit,Beauty,South,SR002,14,60,20,10
+ORD20464,03-01-2024,Resistance Bands,Sports,North,SR009,7,28,9,0
+ORD20197,22-10-2023,Wireless Headphones,Electronics,East,SR003,12,120,62,10
+ORD20576,10-02-2024,Yoga Mat,Sports,North,SR005,2,40,13,5
+ORD20612,09-03-2024,Instant Pot,Home & Kitchen,West,SR004,10,95,48,15
+ORD20147,23-10-2023,Pro Makeup Palette,Beauty,East,SR003,20,45,16,0
+ORD20157,15-02-2024,Road Bicycle,Sports,South,SR006,6,380,205,0
+ORD20511,09-12-2024,Laptop Pro 15,Electronics,East,SR007,27,850,520,0
+ORD20745,21-07-2023,Smart Watch,Electronics,West,SR008,5,220,125,0
+ORD20494,25-06-2023,Laptop Pro 15,Electronics,North,SR009,13,850,520,10
+ORD20041,29-07-2024,Tennis Racket Pro,Sports,West,SR008,6,90,40,0
+ORD20770,05-06-2024,,Beauty,North,SR009,10,45,16,N/A
+ORD20722,26-07-2024,Tennis Racket Pro,Sports,West,SR008,19,90,40,0
+ORD20715,30-11-2024,,Electronics,North,SR001,6,220,125,15
+ORD20081,09-12-2023,Instant Pot,Home & Kitchen,North,SR005,24,95,48,0
+ORD20198,02-09-2023,Casual Shirt,Clothing,North,SR005,2,35,11,0
+ORD20366,28-01-2024,Tennis Racket Pro,Sports,West,SR004,4,90,40,0
+ORD20283,04-12-2024,Casual Shirt,Clothing,East,SR003,6,35,11,0
+ORD20181,22-12-2023,Luxury Bedding Set,Home & Kitchen,West,SR008,16,70,28,0
+ORD20661,20-03-2023,Laptop Pro 15,Electronics,West,SR008,2,850,520,10
+ORD20004,07-11-2024,Denim Jeans,Clothing,West,SR004,9,55,20,20
+ORD20572,06-05-2024,Casual Shirt,Clothing,North,SR005,8,35,11,20
+ORD20643,31-05-2023,Resistance Bands,Sports,East,SR003,18,28,9,0
+ORD20048,18-02-2023,Yoga Mat,Sports,North,SR001,11,40,13,10
+ORD20613,23-09-2023,Coffee Maker,Home & Kitchen,North,SR005,15,85,38,0
+ORD20255,06-05-2024,Pro Makeup Palette,Beauty,West,SR008,1,45,16,0
+ORD20343,19-01-2024,Air Fryer Pro,Home & Kitchen,North,SR005,3,110,52,0
+ORD20527,11-11-2024,Luxury Perfume Set,Beauty,North,SR009,15,80,28,5
+ORD20321,23-05-2023,Smart Watch,Electronics,North,SR009,6,220,125,20
+ORD20492,23-03-2024,Running Shoes,Clothing,South,SR010,16,75,30,10
+ORD20332,02-02-2023,Dumbbell Set 20kg,Sports,North,SR001,13,130,62,10
+ORD20184,31-10-2024,Road Bicycle,Sports,East,SR003,10,380,205,20
+ORD20284,15-03-2023,Blender Pro,Home & Kitchen,North,SR009,7,65,26,20
+ORD20383,26-09-2023,Laptop Pro 15,Electronics,North,SR005,5,850,520,20
+ORD20110,25-10-2023,,Sports,West,SR008,20,130,62,5
+ORD20364,03-12-2023,Wireless Headphones,Electronics,South,SR002,16,120,62,0
+ORD20444,16-02-2023,Pro Makeup Palette,Beauty,West,SR004,16,45,16,15
+ORD20083,09-07-2023,Smart Watch,Electronics,West,SR004,9,220,125,15
+ORD20525,10-05-2023,Pro Makeup Palette,Beauty,North,SR001,6,45,16,10
+ORD20409,16-05-2024,Yoga Mat,Sports,South,SR010,9,40,13,5
+ORD20371,09-03-2024,Dumbbell Set 20kg,Sports,South,SR010,16,130,62,20
+ORD20299,07-07-2024,Running Shoes,Clothing,East,SR007,19,75,30,0
+ORD20065,21-01-2024,Coffee Maker,Home & Kitchen,South,SR006,9,85,38,10
+ORD20538,26-03-2024,Tennis Racket Pro,Sports,North,SR001,2,90,40,0
+ORD20097,08-09-2024,Skincare Routine Kit,Beauty,West,SR008,9,60,20,0
+ORD20778,27-04-2023,Winter Jacket,Clothing,North,SR009,15,95,40,20
+ORD20471,15-08-2024,Sports Hoodie,Clothing,South,SR002,18,60,24,0
+ORD20626,26-09-2023,4K Monitor,Electronics,West,SR008,1,430,265,0
+ORD20648,16-02-2024,Sports Hoodie,Clothing,North,SR001,16,60,24,15
+ORD20717,23-08-2023,Professional Hair Dryer,Beauty,South,SR002,1,55,23,20
+ORD20315,29-06-2024,Sports Hoodie,Clothing,North,SR001,17,60,24,0
+ORD20463,14-12-2024,Winter Jacket,Clothing,South,SR002,4,95,40,15
+ORD20655,19-10-2024,Running Shoes,Clothing,North,SR005,19,75,30,20
+ORD20103,09-03-2024,Dumbbell Set 20kg,Sports,East,SR003,19,130,62,10
+ORD20536,14-06-2024,Sports Hoodie,Clothing,South,SR002,20,60,24,10
+ORD20427,06-07-2023,Yoga Mat,Sports,East,SR007,3,40,13,5
+ORD20319,28-06-2024,Road Bicycle,Sports,North,SR005,3,380,205,10
+ORD20210,25-04-2024,Dumbbell Set 20kg,Sports,North,SR001,7,130,62,N/A
+ORD20813,22-09-2024,Coffee Maker,Home & Kitchen,East,SR003,2,85,38,0
+ORD20579,08-08-2023,Dumbbell Set 20kg,Sports,East,SR007,19,130,62,0
+ORD20633,19-03-2023,Tablet X Pro,Electronics,North,SR005,19,450,275,0
+ORD20583,10-09-2023,Laptop Pro 15,Electronics,South,SR002,1,850,520,15
+ORD20559,16-02-2023,Skincare Routine Kit,Beauty,South,SR006,2,60,20,5
+ORD20295,17-03-2024,Coffee Maker,Home & Kitchen,North,SR001,15,85,38,0
+ORD20611,14-01-2024,Instant Pot,Home & Kitchen,South,SR006,16,95,48,15
+ORD20327,10-03-2023,Laptop Pro 15,Electronics,North,SR005,19,850,520,0
+ORD20669,13-11-2023,Dumbbell Set 20kg,Sports,North,SR001,13,130,62,5
+ORD20246,27-03-2023,Coffee Maker,Home & Kitchen,East,SR007,3,85,38,20
+ORD20775,24-06-2023,Dumbbell Set 20kg,Sports,North,SR009,3,130,62,0
+ORD20801,18-11-2023,Winter Jacket,Clothing,South,SR002,9,95,40,5
+ORD20780,01-08-2024,Road Bicycle,Sports,South,SR010,13,380,205,0
+ORD20115,01-01-2023,Sports Hoodie,Clothing,East,SR007,11,60,24,15
+ORD20021,29-02-2024,Tennis Racket Pro,Sports,South,SR006,12,90,40,10
+ORD20372,16-12-2024,Casual Shirt,Clothing,South,SR010,15,35,11,20
+ORD20105,21-10-2023,4K Monitor,Electronics,South,SR002,6,430,265,20
+ORD20468,11-02-2023,Yoga Mat,Sports,West,SR004,11,40,13,0
+ORD20839,25-12-2023,Blender Pro,Home & Kitchen,West,SR004,22,65,26,0
+ORD20537,24-10-2023,Dumbbell Set 20kg,Sports,North,SR009,19,130,62,15
+ORD20672,15-11-2023,Tennis Racket Pro,Sports,South,SR010,24,90,40,20
+ORD20381,09-11-2024,Winter Jacket,Clothing,North,SR001,28,95,40,0
+ORD20484,29-06-2023,Winter Jacket,Clothing,North,SR005,17,95,40,10
+ORD20165,30-12-2024,,Clothing,East,SR007,21,75,30,0
+ORD20727,14-08-2023,Luxury Bedding Set,Home & Kitchen,North,SR001,12,70,28,5
+ORD20679,13-04-2023,Pro Makeup Palette,Beauty,East,SR003,13,45,16,0
+ORD20140,31-01-2023,Smart Watch,Electronics,East,SR007,16,220,125,N/A
+ORD20276,17-06-2024,Smart Watch,Electronics,North,SR009,14,220,125,20

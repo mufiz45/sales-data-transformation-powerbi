@@ -1,0 +1,72 @@
+[
+  {
+    "SalesRepID": "SR001",
+    "SalesRepName": "Alice Johnson",
+    "Region": "North",
+    "ExperienceLevel": "Senior",
+    "Target": 150000
+  },
+  {
+    "SalesRepID": "SR002",
+    "SalesRepName": "Bob Martinez",
+    "Region": "South",
+    "ExperienceLevel": "Mid",
+    "Target": 120000
+  },
+  {
+    "SalesRepID": "SR003",
+    "SalesRepName": "Carol White",
+    "Region": "East",
+    "ExperienceLevel": "Junior",
+    "Target": 90000
+  },
+  {
+    "SalesRepID": "SR004",
+    "SalesRepName": "David Lee",
+    "Region": "West",
+    "ExperienceLevel": "Senior",
+    "Target": 160000
+  },
+  {
+    "SalesRepID": "SR005",
+    "SalesRepName": "Emma Brown",
+    "Region": "North",
+    "ExperienceLevel": "Mid",
+    "Target": 115000
+  },
+  {
+    "SalesRepID": "SR006",
+    "SalesRepName": "Frank Davis",
+    "Region": "South",
+    "ExperienceLevel": "Senior",
+    "Target": 145000
+  },
+  {
+    "SalesRepID": "SR007",
+    "SalesRepName": "Grace Wilson",
+    "Region": "East",
+    "ExperienceLevel": "Mid",
+    "Target": 110000
+  },
+  {
+    "SalesRepID": "SR008",
+    "SalesRepName": "Henry Taylor",
+    "Region": "West",
+    "ExperienceLevel": "Junior",
+    "Target": 85000
+  },
+  {
+    "SalesRepID": "SR009",
+    "SalesRepName": "Isabella Moore",
+    "Region": "North",
+    "ExperienceLevel": "Senior",
+    "Target": 155000
+  },
+  {
+    "SalesRepID": "SR010",
+    "SalesRepName": "James Anderson",
+    "Region": "South",
+    "ExperienceLevel": "Mid",
+    "Target": 125000
+  }
+]
